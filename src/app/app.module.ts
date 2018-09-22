@@ -18,8 +18,10 @@ import { AppRoutingModule } from './app-routing.module';
     AcercadeComponent
   ],
   imports: [
+
     BrowserModule,
     AppRoutingModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]

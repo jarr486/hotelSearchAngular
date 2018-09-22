@@ -1,6 +1,10 @@
 # Hotelsearch
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+>>>>>>> 8bb6663dee6688599dbfeba0a5068ff12897a0bf
 
 ## Development server
 
